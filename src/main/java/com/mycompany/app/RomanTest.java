@@ -1,11 +1,11 @@
-package romanTest;
+package com.mycompany.app;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import roman.Roman;
+import com.mycompany.app.Roman;
 
 /**
  *
